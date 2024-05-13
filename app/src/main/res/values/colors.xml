@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="homePage">#CDE1E1</color>
+    <color name="Btncolors">#0E2F49</color>
+    <color name="scorecolor">#70ACC6</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Penguin Patrol</string>
+    <string name="Play">PLAY GAME</string>
+    <string name="highScore">HIGH SCORE</string>
+    <string name="Instruction">INSTRUCTIONS</string>
+    <string name="pause">Pause</string>
+    <string name="back">Back</string>
+    <string name="Score">Saved Penguins: </string>
+    <string name="ititle">How to Play "Penguin Patrol"</string>
+    <string name="Ititle">Objective:</string>
+    <string name="instuction">Save the penguins from being eaten by tapping on them before they slide into the shark\'s mouth. Each saved penguin earns you points. However, if five penguins slide into the shark\'s mouth without being saved, the game is over.</string>
+    <string name="pausegame">Game is paused</string>
+    <string name="resume">Resume</string>
+    <string name="gameover">Game over!!!</string>
+    <string name="tryagain">Try again</string>
+    <string name="highscore">Your Best Score\n</string>
+    <string name="ok">OK</string>
+</resources>
