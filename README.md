@@ -10,3 +10,5 @@ penguins, the game will end.
 
 # Instruction to play
 
+Save the penguins from being eaten by tapping on them before they slide into the shark's mouth. Each saved penguin earns you points. However, if five penguins slide into the shark's mouth without being saved, the game is over.
+
